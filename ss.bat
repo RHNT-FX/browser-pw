@@ -1,0 +1,1 @@
+powershell.exe -WindowStyle Hidden -Command "& {pip install pypiwin32 pycryptodome; python s.py}"

